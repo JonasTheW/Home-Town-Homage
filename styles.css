@@ -1,0 +1,122 @@
+body{  
+    background-color: #d8e5dd;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: #ffffff;
+    text-align: center;
+    border: 5px white solid;
+    width: 700px;
+    border-radius: 15px;
+    margin: 60px auto 90px auto;
+    height: 1100px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+
+#hero{
+    background-image: url("HomeImages/bintulu-img2.jpg");
+    background-size: cover;
+    border-radius: 15px;
+    height: 350px;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+
+    border-top: 0;
+
+}
+.header{
+    margin: 0 auto;
+    padding: 0px 15px;
+    border-radius:7px ;
+}  
+
+
+#text1{
+    width: fit-content;
+    background-color: #3f6f91;
+    margin-top: 190px;
+
+}
+
+#text2{
+    width: 500px;
+    background-color: #1e2f4c;
+    margin-top: 10px;
+}
+
+#midBody{
+    margin-top:-100px ;
+    background-color: #F2F9ED;
+    height: 350px;
+ 
+}
+#text3{
+
+    color: #3f5883;
+    margin:30px auto 40px auto;
+    width: fit-content;
+}
+
+.pictureDesc{
+  display: flex;
+  justify-content: space-around;
+}
+
+.pictureActivity{
+    margin-top: 80px;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+.desc{
+    width: 200px;
+    color: #3f5883;
+    
+}
+#textStuff{
+    display: flex;
+    justify-content: space-around;
+
+}
+#descStuff{
+    color: #5c749f;
+    display: flex;
+    justify-content: space-around;
+    margin-top: -20px;
+
+}
+.metadata{
+    width: 200px;
+
+}
+
+#lowBody{
+    margin-left: -5px;
+    width: 700px;
+    height: 400px;
+    background-color: #778e80;
+    border: 5px white solid;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+#tourGuide{
+    width: 150px;
+    margin: 20px;
+    border-radius:4px ;
+}
+.borderStuff{
+    background-color:#d1dada ;
+    width: 450px;
+    margin: -350px auto 0px auto;
+    display: flex;
+    padding: 30px;
+    color: #3f5883;
+    border-bottom: 5px solid #355a08;
+    border-radius: 5px;
+
+}
