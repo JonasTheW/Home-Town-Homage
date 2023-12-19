@@ -1,2 +1,2 @@
 # Home-Town-Homage
-A HTML/CSS project
+My very first project that combines CSS and HTML together in a cohesive manner
